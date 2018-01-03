@@ -1,7 +1,0 @@
-Use cases:
-
-1. Login.
-2. Fetch all the cases with their status from NHRC website.
-3. Set alarms and reminders for any updates on any of the cases. This feature is available only to the Senior Officers.
-4. A dashboard showing account information.
-
